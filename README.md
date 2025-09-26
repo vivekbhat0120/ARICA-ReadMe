@@ -68,3 +68,12 @@ Improve SEO (meta tags, alt attributes).
 Add accessibility features.
 
 Integrate analytics for visitor tracking.
+
+
+👨‍💻 Author
+
+Vivek Bhat
+
+🌐 Portfolio - https://vivekbhat0120.github.io/Responsive_Portfolio/
+
+💼 GitHub: @vivekbhat0120
