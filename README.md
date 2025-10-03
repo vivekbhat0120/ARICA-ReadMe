@@ -1,7 +1,9 @@
 ARICA (https://aricaa.netlify.app/)
+
 📘 Overview
 
 ARICA is a modern, responsive e-commerce frontend app built with React + Vite. It demonstrates UI/UX design, performance optimizations, and integration features (e.g. contact form).
+
 
 🧰 Tech Stack & Toolchain
 
@@ -17,11 +19,7 @@ Deployment / Hosting: Netlify (with continuous deployment from Git)
 
 Extras / Integrations: EmailJS or similar (there is an EMAILJS_SETUP.md in the repo)
 
-Project Structure Highlights:
-  • src/ folder for React component and logic
-  • public/ for static assets / index.html
-  • dist/ for build output
-  • vite.config.js for Vite configuration
+
 
 ✔️ Features / Highlights
 
@@ -38,6 +36,7 @@ Fast builds and hot module reloading via Vite during development
 Continuous deployment via Netlify (each push triggers rebuild)
 
 ESLint rules helping maintain code consistency
+
 
 👨‍💻 Author
 
